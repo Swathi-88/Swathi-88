@@ -1,83 +1,73 @@
-<h2 align="left">Hi 👋! I'm Swathi and I'm an AI Product Innovator, from Chennai, India</h2>
+## Hi there 👋, my name is Swathi
 
-###
+[![linkedin profile link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swathipremgandhi/)
+[![gmail link](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swathigandhi2006@gmail.com)
 
-<p align="left">
-I’m exploring the AI field by building, experimenting, and learning how intelligent systems behave in the real world.
-My focus is on understanding how models, agents, and automation come together to form scalable AI products.
-I enjoy turning ideas into working prototypes and constantly refining my approach as I grow in the AI space.
-</p>
+## 🙋‍♀️ About me
 
-<p align="left">
-My interests span across GenAI, AI agents, automation workflows, and designing systems that enable natural interaction between humans and machines.
-</p>
+![profile view count](https://komarev.com/ghpvc/?username=Swathi-88)
 
-###
+I'm from India 🇮🇳, currently based in Chennai 🌍. I’m an AI Product Innovator who enjoys building, experimenting, and understanding how modern AI systems work beyond tutorials. I’m especially interested in GenAI, AI agents, and automation, and I like turning ideas into working prototypes that feel practical and human-friendly.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swathi-88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Swathi-88&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+When I’m not experimenting with AI systems, I usually spend time exploring new tech concepts, participating in hackathons, or refining my problem-solving skills through coding and research.
 
-###
+## 🔭 I'm currently working on
 
-<h3 align="left">🧠 Technical Skills</h3>
+- Exploring **GenAI system design** and agent-based workflows  
+- Building small-to-medium **AI prototypes** to understand real-world constraints  
+- Experimenting with **automation using LLMs**  
+- Strengthening fundamentals in **machine learning and NLP**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
-</div>
-
-###
-
-<h3 align="left">✨ Special Interests</h3>
-
-<ul>
-  <li>AI Agents & Agentic Workflows</li>
-  <li>Automation using LLMs</li>
-  <li>Generative AI Systems</li>
-  <li>Multimodal AI (text, audio, vision)</li>
-  <li>Product-oriented AI development</li>
-  <li>Designing AI systems for real-world scalability</li>
-</ul>
-
-###
-
-<h3 align="left">🌱 Current Focus</h3>
+## 🌱 I’m currently learning
 
 <p align="left">
-Learning how modern AI systems are designed end-to-end — from ideation and model selection
-to orchestration, deployment, and user-facing experiences.
-I’m especially interested in how intelligent agents collaborate, reason, and automate workflows.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40px"/>
 </p>
 
-###
+## 🧠 Languages I know
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/swathipremgandhi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:swathigandhi2006@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px"/>
+</p>
 
-###
+## ✨ Things I’m interested in
 
-<br clear="both">
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/artificialintelligence/artificialintelligence-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40px"/>
+</p>
 
-<!-- Snake animation (make sure the repo name is Swathi-88) -->
-<img src="https://raw.githubusercontent.com/Swathi-88/Swathi-88/output/snake.svg" alt="Snake animation" />
+## 🔨 I've contributed to
 
-###
+- Personal AI & GenAI projects on GitHub  
+- Hackathon projects involving AI and automation  
+- Collaborative college and peer projects  
+- Open learning through experimentation and shared code  
+
+## 💸 How to support me
+
+If you like what I build or find my projects helpful:
+- ⭐ Star my repositories  
+- 🤝 Share feedback or suggestions  
+- 💬 Connect and collaborate on interesting AI ideas  
+
+Your feedback and ideas matter more than anything else.
+
+## 📫 How to reach me
+
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="50px">](mailto:swathigandhi2006@gmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50px">](https://www.linkedin.com/in/swathipremgandhi/)
