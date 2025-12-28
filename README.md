@@ -1,73 +1,40 @@
-## Hi there 👋, my name is Swathi
+#  About Me:
+🔭 Currently working on GenAI systems, AI agent workflows, and product-oriented AI prototypes that explore how intelligent systems behave in real-world conditions.<br><br>
+👯 Looking to collaborate on GenAI projects, AI agents, automation workflows, hackathons, and experimental AI ideas that push beyond tutorials.<br><br>
+🤝 I’m looking for help with scaling AI systems, fine-tuning models, and understanding deployment and system design for real-world AI applications.<br><br>
+🌱 Currently learning NLP, transformer-based models, Hugging Face workflows, PyTorch, LangChain, and agent-based AI orchestration.<br><br>
 
-[![linkedin profile link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swathipremgandhi/)
-[![gmail link](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swathigandhi2006@gmail.com)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swathipremgandhi)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swathigandhi2006@gmail.com)
 
-## 🙋‍♀️ About me
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
-![profile view count](https://komarev.com/ghpvc/?username=Swathi-88)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Swathi-88&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Swathi-88&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swathi-88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm from India 🇮🇳, currently based in Chennai 🌍. I’m an AI Product Innovator who enjoys building, experimenting, and understanding how modern AI systems work beyond tutorials. I’m especially interested in GenAI, AI agents, and automation, and I like turning ideas into working prototypes that feel practical and human-friendly.
-
-When I’m not experimenting with AI systems, I usually spend time exploring new tech concepts, participating in hackathons, or refining my problem-solving skills through coding and research.
-
-## 🔭 I'm currently working on
-
-- Exploring **GenAI system design** and agent-based workflows  
-- Building small-to-medium **AI prototypes** to understand real-world constraints  
-- Experimenting with **automation using LLMs**  
-- Strengthening fundamentals in **machine learning and NLP**
-
-## 🌱 I’m currently learning
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40px"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swathi-88&theme=github_dark"/>
 </p>
 
-## 🧠 Languages I know
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Swathi-88&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px"/>
-</p>
 
-## ✨ Things I’m interested in
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/artificialintelligence/artificialintelligence-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40px"/>
-</p>
-
-## 🔨 I've contributed to
-
-- Personal AI & GenAI projects on GitHub  
-- Hackathon projects involving AI and automation  
-- Collaborative college and peer projects  
-- Open learning through experimentation and shared code  
-
-## 💸 How to support me
-
-If you like what I build or find my projects helpful:
-- ⭐ Star my repositories  
-- 🤝 Share feedback or suggestions  
-- 💬 Connect and collaborate on interesting AI ideas  
-
-Your feedback and ideas matter more than anything else.
-
-## 📫 How to reach me
-
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="50px">](mailto:swathigandhi2006@gmail.com)
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50px">](https://www.linkedin.com/in/swathipremgandhi/)
