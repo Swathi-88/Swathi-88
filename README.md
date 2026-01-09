@@ -75,10 +75,7 @@ I care about **why a system works**, not just *that* it works.
 
 ---
 
-## 🔝 Contribution Footprint
-![](https://github-contributor-stats.vercel.app/api?username=Swathi-88&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 
 ### ⚡ If you’re here for one reason
 If you’re building **AI systems**, **agents**, or **products that think**,  
