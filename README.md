@@ -72,7 +72,6 @@ I care about **why a system works**, not just *that* it works.
 
 ### **APIs & Data**
 ![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge)
-![YouTube API](https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 ---
 
