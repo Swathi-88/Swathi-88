@@ -84,7 +84,6 @@ I care about **why a system works**, not just *that* it works.
 
 ## 📊 GitHub activity
 
-![](https://github-readme-stats.vercel.app/api?username=Swathi-88&theme=dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Swathi-88&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swathi-88&theme=dark&layout=compact&theme=dark)
 
