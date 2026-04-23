@@ -1,10 +1,10 @@
-# 🚀 Swathi | AI Product Innovator
+#  Swathi | AI Product Innovator
 
 > **Convincing models to cooperate**
 
 ---
 
-## 🧠 Builder’s Log (What I’m actually doing)
+##  Builder’s Log (What I’m actually doing)
 
 🔭 Designing and experimenting with **GenAI systems**, **AI agents**, and **product-driven prototypes** that explore how models reason, collaborate, and fail in real-world conditions.
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧬 My Philosophy on AI
+##  My Philosophy on AI
 
 - **Models** are tools — systems create value  
 - **Prompts** evolve — agents collaborate  
@@ -29,7 +29,7 @@ I care about **why a system works**, not just *that* it works.
 
 ---
 
-## 🌐 Connect with me
+##  Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swathipremgandhi)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swathigandhi2006@gmail.com)
 
